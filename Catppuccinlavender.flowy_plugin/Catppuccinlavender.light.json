@@ -1,0 +1,24 @@
+{
+  "backgroundPrimary": "0xFFEFF1F5",
+  "backgroundSecondary": "0xFFE6E9EF",
+  "cardBackgroundColor": "0xFFDCE0E8",
+  "dialogBackgroundColor": "0xFFE6E9EF",
+  "fillColorPrimary": "0xFFEFF1F5",
+  "fillColorSecondary": "0xFFE6E9EF",
+  
+  "textColorPrimary": "0xFF4C4F69",
+  "textColorSecondary": "0xFF5C5E70",
+  "textColorTertiary": "0xFF8F93A8", // Catppuccin Overlay0 or Subtext0
+  "textColorPlaceholder": "0xFF9DA8BB", // Catppuccin Surface2
+  
+  "primaryColor": "0xFF7287FD", // Main accent color (Lavender)
+  "primaryColorOpacity1": "0x207287FD",
+  "primaryColorOpacity2": "0x407287FD",
+  "primaryColorLight": "0xFF7287FD",
+  "primaryColorDark": "0xFF5A6ACD", // Slightly darker lavender for active states
+  
+  "errorColor": "0xFFD20F39", // Red
+  "warningColor": "0xFFDF8E1D", // Yellow
+  "successColor": "0xFF40A02B", // Green
+  
+}

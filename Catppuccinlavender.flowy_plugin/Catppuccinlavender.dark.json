@@ -1,0 +1,33 @@
+{
+  // --- Backgrounds & Surfaces ---
+  "backgroundPrimary": "0xFF000000",
+  "backgroundSecondary": "0xFF181825",
+  "cardBackgroundColor": "0xFF11111B",
+  "dialogBackgroundColor": "0xFF181825",
+  "fillColorPrimary": "0xFF11111B",
+  "fillColorSecondary": "0xFF181825",
+  
+  // --- Text Colors ---
+  "textColorPrimary": "0xFFCDD6F4",
+  "textColorSecondary": "0xFFBAC2DE",
+  "textColorTertiary": "0xFF8993B0", // Catppuccin Overlay0 or Subtext0
+  "textColorPlaceholder": "0xFF585B70", // Catppuccin Surface2
+  
+  // --- Accent & Interactive Colors (Lavender) ---
+  "primaryColor": "0xFFB4BEEF", // Main accent color (Lavender)
+  "primaryColorOpacity1": "0x20B4BEEF", // Opacity 1 (20% Opacity)
+  "primaryColorOpacity2": "0x40B4BEEF", // Opacity 2 (40% Opacity)
+  "primaryColorLight": "0xFFB4BEEF", // Used in some button states
+  "primaryColorDark": "0xFF9D9DBF", // Slightly darker lavender for active states
+  
+  // --- System/Feedback Colors ---
+  "errorColor": "0xFFF38BA8", // Red
+  "warningColor": "0xFFF9E2AF", // Yellow
+  "successColor": "0xFFA6E3A1", // Green
+  
+  // --- Borders & Dividers ---
+  "borderColor": "0xFF313244", // Catppuccin Surface1
+  "dividerColor": "0xFF313244",
+  
+  // You must ensure all keys from FlowyColorScheme are present and updated.
+}
